@@ -24,11 +24,11 @@ cmdclass = {
 
 
 setup(
-    name='pretix-no-payment',
+    name='pretix-nopayment',
     version='1.0.0',
     description='Short description',
     long_description=long_description,
-    url='https://github.com/rimi-itk/pretix-no-payment.git',
+    url='https://github.com/rimi-itk/pretix-nopayment.git',
     author='Mikkel Ricky',
     author_email='rimi@aarhus.dk',
     license='Apache Software License',
