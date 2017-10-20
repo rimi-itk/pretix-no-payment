@@ -1,0 +1,3 @@
+recursive-include pretix_nopayment/static *
+recursive-include pretix_nopayment/templates *
+recursive-include pretix_nopayment/locale *
